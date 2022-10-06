@@ -519,3 +519,45 @@ height: 555.55px;
         height: 555.55px;
     }
 }
+@media screen and (max-width:450px) {
+    .image-holder ,.detail-holder{
+        height: 240px;
+    }
+    .card-2 .image-holder ,.card-2 .detail-holder{
+        height: 357.63px;
+    }
+
+    .card-3 .image-holder ,.card-3 .detail-holder{
+        height: 357.63px;
+    }
+    .card-3{
+        margin-top: 0;
+    }
+    .card-4 .image-holder, .card-4 .detail-holder{
+        height: 357.63px;
+    }
+    .hero-card .text-holder .pic-title{
+        font-size: 2.8rem;
+    }
+    .hero-card .text-holder .pic-descp{
+        font-size: 2rem;
+    }
+    .hero-card .holder1 .pic-title{
+        font-size: 2.2rem;
+    }
+    .hero-card .holder1 .pic-descp{
+        font-size: 1.6rem;
+    }
+    .holder6 .text6 .pic-title{
+        font-size: 2.2rem;
+    }
+    .holder6 .text6 .pic-descp{
+        font-size: 1.6rem;
+    }
+    .holder5 .text5 .pic-title{
+        font-size: 2.2rem;
+    }
+    .holder5 .text5 .pic-descp{
+        font-size: 1.6rem;
+    }
+}
